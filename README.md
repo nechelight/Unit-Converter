@@ -1,0 +1,1 @@
+This is a unit converter project from the Scrimba bootcamp. The whole idea behind this project is to build muscle memory around certain JavaScript concepts, like DOM manipulation, use of addEventListener() and function, simple arithmetic operations, ternery operations, and rounding up of numbers using toFixed().
